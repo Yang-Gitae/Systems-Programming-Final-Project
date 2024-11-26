@@ -1,0 +1,60 @@
+===================================================
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 09:18:01 AM EST
+Starting incremental backup at Tue 26 Nov 2024 09:18:01 AM EST
+Checking for changes between source and snapshot...
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+No changes detected. Incremental backup not required.
+===================================================
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 09:19:01 AM EST
+Starting incremental backup at Tue 26 Nov 2024 09:19:01 AM EST
+Checking for changes between source and snapshot...
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+No changes detected. Incremental backup not required.
+===================================================
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 09:20:01 AM EST
+Starting incremental backup at Tue 26 Nov 2024 09:20:01 AM EST
+Checking for changes between source and snapshot...
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+No changes detected. Incremental backup not required.
+===================================================
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 09:21:01 AM EST
+Starting incremental backup at Tue 26 Nov 2024 09:21:01 AM EST
+Checking for changes between source and snapshot...
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+No changes detected. Incremental backup not required.
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 09:48:20 AM EST
+Checking for changes between source and snapshot...
+Changes detected. Creating incremental backup...
+Incremental backup completed successfully: /home/gitae/bu/backup/incremental_backup_2024-11-26_09-48-20.tar.gz
+Encrypting the incremental backup for additional protection...
+Incremental backup encrypted successfully: /home/gitae/bu/backup/incremental_backup_2024-11-26_09-48-20.tar.gz.gpg
+Updating snapshot directory with the latest state of the source directory...
+Snapshot updated successfully.
+Incremental backup process completed at Tue 26 Nov 2024 09:48:26 AM EST
+===================================================
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 02:12:45 PM EST
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 02:12:57 PM EST
+Checking for changes between source and snapshot...
+Changes detected. Creating incremental backup...
+Incremental backup completed successfully: /home/gitae/bu/backup/incremental_backup_2024-11-26_14-12-57.tar.gz
+Checking for incremental backups older than 7 days...
+Retention policy applied: Old incremental backups removed (if any).
+Encrypting the incremental backup for additional protection...
+Incremental backup encrypted successfully: /home/gitae/bu/backup/incremental_backup_2024-11-26_14-12-57.tar.gz.gpg
+Updating snapshot directory with the latest state of the source directory...
+Snapshot updated successfully.
+Incremental backup process completed at Tue 26 Nov 2024 02:13:02 PM EST
+===================================================

@@ -1,0 +1,19 @@
+Starting full backup of /home/gitae/bu/data
+Backup file created: /home/gitae/bu/backup/full_backup_2024-11-26_09-18-01.tar.gz
+Encrypting the backup file for additional protection...
+Backup file successfully encrypted: /home/gitae/bu/backup/full_backup_2024-11-26_09-18-01.tar.gz.gpg
+Starting full backup of /home/gitae/bu/data
+Backup file created: /home/gitae/bu/backup/full_backup_2024-11-26_09-19-01.tar.gz
+Encrypting the backup file for additional protection...
+Backup file successfully encrypted: /home/gitae/bu/backup/full_backup_2024-11-26_09-19-01.tar.gz.gpg
+Starting full backup of /home/gitae/bu/data
+Backup file created: /home/gitae/bu/backup/full_backup_2024-11-26_09-20-01.tar.gz
+Encrypting the backup file for additional protection...
+Backup file successfully encrypted: /home/gitae/bu/backup/full_backup_2024-11-26_09-20-01.tar.gz.gpg
+Starting full backup of /home/gitae/bu/data
+Backup file created: /home/gitae/bu/backup/full_backup_2024-11-26_09-21-01.tar.gz
+Encrypting the backup file for additional protection...
+gpg: cancelled by user
+gpg: error creating passphrase: Operation cancelled
+gpg: symmetric encryption of '/home/gitae/bu/backup/full_backup_2024-11-26_09-21-01.tar.gz' failed: Operation cancelled
+Error during encryption
